@@ -17,7 +17,7 @@ T-Academy 스터디 자료정리용 GitHub 입니다
 
 
 <figure class="align-center">
-  <img src="https://www.skplanet.com/img/upload/board/2014072410350495436349.png" alt="">
+  <img src="https://raw.githubusercontent.com/YongBeomKim/Tacademy/master/data/20180512_rnn.jpg" width="600" alt="">
   <figcaption></figcaption>
 </figure>
 
