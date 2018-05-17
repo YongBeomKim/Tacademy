@@ -17,7 +17,7 @@
 [http://dalpo0814.tistory.com/45](http://dalpo0814.tistory.com/45)
 
 
-**아래 이미지를 누르면** 스터티 녹화 YouTube 와 연결
+**아래 이미지를 누르면** 스터디 녹화 YouTube 와 연결
 <!-- link tips : https://gist.github.com/ikaruce/29ddbedbdbb04f670ec7 -->
 
 [![Video Label](https://raw.githubusercontent.com/YongBeomKim/Tacademy/master/data/20180512_rnn.jpg)](https://www.youtube.com/watch?v=EmvyEqJvrvw)
