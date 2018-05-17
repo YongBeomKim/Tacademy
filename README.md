@@ -16,21 +16,12 @@ T-Academy 스터디 자료정리용 GitHub 입니다
 [Simple Test Source codes](https://github.com/YongBeomKim/Tacademy/tree/master/Juwon)
 
 
-<figure class="align-center">
-  <img src="https://raw.githubusercontent.com/YongBeomKim/Tacademy/master/data/20180512_rnn.jpg" width="600" alt="">
-  <figcaption></figcaption>
-</figure>
-
-
-[linkname](https://www.youtube.com/watch?v=EmvyEqJvrvw)
+**아래 이미지를 누르면** 스터티 녹화 YouTube 와 연결됩니다
 
 [![Video Label](https://raw.githubusercontent.com/YongBeomKim/Tacademy/master/data/20180512_rnn.jpg)](https://www.youtube.com/watch?v=EmvyEqJvrvw)
 
+<!-- link tips : https://gist.github.com/ikaruce/29ddbedbdbb04f670ec7 -->
 
-<br>
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EmvyEqJvrvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
