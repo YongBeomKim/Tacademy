@@ -1,4 +1,4 @@
-# T-Academy 2018 머신러닝 스터디 자료정리용 GitHub
+# T-Academy 2018 머신러닝 스터디
 
 <figure class="align-center">
   <img src="https://www.skplanet.com/img/upload/board/2014072410350495436349.png" alt="">
