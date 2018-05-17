@@ -24,6 +24,8 @@ T-Academy 스터디 자료정리용 GitHub 입니다
 
 [linkname](https://www.youtube.com/watch?v=EmvyEqJvrvw)
 
+[![Video Label](https://raw.githubusercontent.com/YongBeomKim/Tacademy/master/data/20180512_rnn.jpg)](https://www.youtube.com/watch?v=EmvyEqJvrvw)
+
 
 <br>
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
