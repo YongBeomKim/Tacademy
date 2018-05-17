@@ -1,15 +1,16 @@
-# Tacademy
+# T-Academy 2018 머신러닝 스터디 자료정리용 GitHub
 
 <figure class="align-center">
   <img src="https://www.skplanet.com/img/upload/board/2014072410350495436349.png" alt="">
   <figcaption></figcaption>
 </figure>
 
-T-Academy 스터디 자료정리용 GitHub 입니다
+
 
 
 <br>
-## 5월 12일 - Seq2Seq2 구조 스터디
+
+## 5월 12일 - **Seq2Seq2 구조 스터디**
 
 ### **Seq2Seq2** 모델 개념셜명 및 질의응답 (진행 : 주원)
 
@@ -20,9 +21,4 @@ T-Academy 스터디 자료정리용 GitHub 입니다
 <!-- link tips : https://gist.github.com/ikaruce/29ddbedbdbb04f670ec7 -->
 
 [![Video Label](https://raw.githubusercontent.com/YongBeomKim/Tacademy/master/data/20180512_rnn.jpg)](https://www.youtube.com/watch?v=EmvyEqJvrvw)
-
-
-
-
-
 
